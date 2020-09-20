@@ -1,13 +1,22 @@
-import React from 'react';
+import React from 'react'
 import Home from './pages/home/home'
+import { Route } from 'react-router-dom'
 
-
-function App() {
-  return (
-    <div>
-      <Home/>
-    </div>
-  );
+const Hats = (props) =>{
+  console.log(props);
+  return <div>
+    <h1>Hats Page</h1>
+  </div>
 }
 
-export default App;
+function App (props) {
+  
+  return (
+    <div>
+      <Route exact path='/' component={Home} />
+      <Route path="/hats" component={Hats} />
+    </div>
+  )
+}
+
+export default App

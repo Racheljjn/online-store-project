@@ -4,6 +4,7 @@ import MenuItem from '../menu-item/menu-item'
 
 class Menu extends Component{
   constructor(){
+    console.log();
    super()
    this.state={
     sections:[
@@ -48,8 +49,8 @@ class Menu extends Component{
    return (
     <div className="menu">
      {
-       this.state.sections.map(({title,id,imageUrl,size})=>{
-         return <MenuItem key={id} title={title} imageUrl={imageUrl} size={size}/>
+       this.state.sections.map(({title,id,imageUrl,size,linkUrl})=>{
+         return <MenuItem key={id} title={title} imageUrl={imageUrl} size={size} linkUrl={linkUrl}/>
        })
      }
 
