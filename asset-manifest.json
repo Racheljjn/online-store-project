@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/online-store-project/static/css/main.7f400213.chunk.css",
-    "main.js": "/online-store-project/static/js/main.dd2d88b6.chunk.js",
-    "main.js.map": "/online-store-project/static/js/main.dd2d88b6.chunk.js.map",
-    "runtime-main.js": "/online-store-project/static/js/runtime-main.1c911300.js",
-    "runtime-main.js.map": "/online-store-project/static/js/runtime-main.1c911300.js.map",
-    "static/js/2.885378ef.chunk.js": "/online-store-project/static/js/2.885378ef.chunk.js",
-    "static/js/2.885378ef.chunk.js.map": "/online-store-project/static/js/2.885378ef.chunk.js.map",
-    "index.html": "/online-store-project/index.html",
-    "precache-manifest.9cd5bfaa1c6b9b679c0d28cd75229594.js": "/online-store-project/precache-manifest.9cd5bfaa1c6b9b679c0d28cd75229594.js",
-    "service-worker.js": "/online-store-project/service-worker.js",
-    "static/css/main.7f400213.chunk.css.map": "/online-store-project/static/css/main.7f400213.chunk.css.map",
-    "static/js/2.885378ef.chunk.js.LICENSE.txt": "/online-store-project/static/js/2.885378ef.chunk.js.LICENSE.txt",
-    "static/media/crown.ed28accb.svg": "/online-store-project/static/media/crown.ed28accb.svg"
+    "main.css": "/onlineStoreProject/static/css/main.7f400213.chunk.css",
+    "main.js": "/onlineStoreProject/static/js/main.dd2d88b6.chunk.js",
+    "main.js.map": "/onlineStoreProject/static/js/main.dd2d88b6.chunk.js.map",
+    "runtime-main.js": "/onlineStoreProject/static/js/runtime-main.43580dc4.js",
+    "runtime-main.js.map": "/onlineStoreProject/static/js/runtime-main.43580dc4.js.map",
+    "static/js/2.18eac98e.chunk.js": "/onlineStoreProject/static/js/2.18eac98e.chunk.js",
+    "static/js/2.18eac98e.chunk.js.map": "/onlineStoreProject/static/js/2.18eac98e.chunk.js.map",
+    "index.html": "/onlineStoreProject/index.html",
+    "precache-manifest.6da13609c7526ace8ac933b154cbb6cf.js": "/onlineStoreProject/precache-manifest.6da13609c7526ace8ac933b154cbb6cf.js",
+    "service-worker.js": "/onlineStoreProject/service-worker.js",
+    "static/css/main.7f400213.chunk.css.map": "/onlineStoreProject/static/css/main.7f400213.chunk.css.map",
+    "static/js/2.18eac98e.chunk.js.LICENSE.txt": "/onlineStoreProject/static/js/2.18eac98e.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/onlineStoreProject/static/media/crown.ed28accb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c911300.js",
-    "static/js/2.885378ef.chunk.js",
+    "static/js/runtime-main.43580dc4.js",
+    "static/js/2.18eac98e.chunk.js",
     "static/css/main.7f400213.chunk.css",
     "static/js/main.dd2d88b6.chunk.js"
   ]
