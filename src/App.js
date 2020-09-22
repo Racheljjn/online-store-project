@@ -7,7 +7,7 @@ import SignInAndSignUpPage from './pages/sign-in and sign-up/sign-in-sign-up'
 
 function App () {
   return (
-    <HashRouter basename='/'>
+    <HashRouter basename='/onlineStoreProject'>
     <div>
       <Header />
       <Switch>
