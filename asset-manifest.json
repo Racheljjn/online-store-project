@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/onlineStoreProject/static/css/main.7f400213.chunk.css",
-    "main.js": "/onlineStoreProject/static/js/main.dd2d88b6.chunk.js",
-    "main.js.map": "/onlineStoreProject/static/js/main.dd2d88b6.chunk.js.map",
+    "main.js": "/onlineStoreProject/static/js/main.787428ed.chunk.js",
+    "main.js.map": "/onlineStoreProject/static/js/main.787428ed.chunk.js.map",
     "runtime-main.js": "/onlineStoreProject/static/js/runtime-main.43580dc4.js",
     "runtime-main.js.map": "/onlineStoreProject/static/js/runtime-main.43580dc4.js.map",
-    "static/js/2.18eac98e.chunk.js": "/onlineStoreProject/static/js/2.18eac98e.chunk.js",
-    "static/js/2.18eac98e.chunk.js.map": "/onlineStoreProject/static/js/2.18eac98e.chunk.js.map",
+    "static/js/2.c67e4dbc.chunk.js": "/onlineStoreProject/static/js/2.c67e4dbc.chunk.js",
+    "static/js/2.c67e4dbc.chunk.js.map": "/onlineStoreProject/static/js/2.c67e4dbc.chunk.js.map",
     "index.html": "/onlineStoreProject/index.html",
-    "precache-manifest.b6f46b9a262ecaebab2f72e85401206d.js": "/onlineStoreProject/precache-manifest.b6f46b9a262ecaebab2f72e85401206d.js",
+    "precache-manifest.d8b20f2fe2965cfb48dfd0c198697c9b.js": "/onlineStoreProject/precache-manifest.d8b20f2fe2965cfb48dfd0c198697c9b.js",
     "service-worker.js": "/onlineStoreProject/service-worker.js",
     "static/css/main.7f400213.chunk.css.map": "/onlineStoreProject/static/css/main.7f400213.chunk.css.map",
-    "static/js/2.18eac98e.chunk.js.LICENSE.txt": "/onlineStoreProject/static/js/2.18eac98e.chunk.js.LICENSE.txt",
+    "static/js/2.c67e4dbc.chunk.js.LICENSE.txt": "/onlineStoreProject/static/js/2.c67e4dbc.chunk.js.LICENSE.txt",
     "static/media/crown.ed28accb.svg": "/onlineStoreProject/static/media/crown.ed28accb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.43580dc4.js",
-    "static/js/2.18eac98e.chunk.js",
+    "static/js/2.c67e4dbc.chunk.js",
     "static/css/main.7f400213.chunk.css",
-    "static/js/main.dd2d88b6.chunk.js"
+    "static/js/main.787428ed.chunk.js"
   ]
 }
